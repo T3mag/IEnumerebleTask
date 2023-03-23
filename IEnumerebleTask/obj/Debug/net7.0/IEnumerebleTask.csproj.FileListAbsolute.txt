@@ -1,0 +1,15 @@
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/bin/Debug/net7.0/IEnumerebleTask
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/bin/Debug/net7.0/IEnumerebleTask.deps.json
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/bin/Debug/net7.0/IEnumerebleTask.runtimeconfig.json
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/bin/Debug/net7.0/IEnumerebleTask.dll
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/bin/Debug/net7.0/IEnumerebleTask.pdb
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.csproj.AssemblyReference.cache
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.AssemblyInfoInputs.cache
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.AssemblyInfo.cs
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.dll
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/refint/IEnumerebleTask.dll
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.pdb
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/IEnumerebleTask.genruntimeconfig.cache
+/Users/arturminnusin/RiderProjects/IEnumerebleTask/IEnumerebleTask/obj/Debug/net7.0/ref/IEnumerebleTask.dll
